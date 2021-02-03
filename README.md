@@ -14,3 +14,5 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/gennadii.stavytskyi)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/stavytskyigennadii)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/gennadiistavytskyi/)
+
+[![GennadiiStavytsky GitHub stats](https://github-readme-stats.vercel.app/api?username=GennadiiStavytsky&show_icons=true&theme=tokyonight&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
