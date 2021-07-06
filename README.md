@@ -1,4 +1,4 @@
-[![Header]()](https://www.linkedin.com/in/gennadii-stavytskyi-aa518a171/)
+
 
 ## I'm a  Junior DevOps Engineer
 
