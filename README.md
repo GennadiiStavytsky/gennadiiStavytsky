@@ -1,17 +1,16 @@
-[![Header](https://github.com/GennadiiStavytsky/gennadiiStavytsky/blob/main/assets/header.png)](https://www.facebook.com/gennadii.stavytskyi)
+[![Header]()](https://www.linkedin.com/in/gennadii-stavytskyi-aa518a171/)
 
-## I'm a  DevOps Engineer
+## I'm a  Junior DevOps Engineer
 
 ### Language and Tools
 ![AWS](https://img.shields.io/badge/-AWS-090909?style=for-the-badge&logo=AWS)
 ![EC2](https://img.shields.io/badge/-EC2-090909?style=for-the-badge&logo=EC2)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-090909?style=for-the-badge&logo=DynamoDB)
-![CI/CD](https://img.shields.io/badge/-CI/CD-090909?style=for-the-badge&logo=CI/CD)
+![S3](https://img.shields.io/badge/-S3-090909?style=for-the-badge&logo=S3)
+![RDS](https://img.shields.io/badge/-RDS-090909?style=for-the-badge&logo=RDS)
+![IAM](https://img.shields.io/badge/-IAM-090909?style=for-the-badge&logo=IAM)
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C) 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
-![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=Kubernetes)
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=MySQL)
+![Ansible](https://img.shields.io/badge/-Ansible-090909?style=for-the-badge&logo=Ansible)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-090909?style=for-the-badge&logo=Jenkins)
 ### Follow Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/gennadii-stavytskyi-aa518a171/)
